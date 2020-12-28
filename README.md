@@ -28,7 +28,7 @@ p {
 <meta property="og:image" content="https://www.naljaede.com/favicon.ico">
 <meta property="og:title" content="تحميل NAWhatsApp واتساب ناصر الجعيدي آخر إصدار - موقع ناصر الجعيدي للتقنية والمعلوميات Download NAWhatsApp least">
 <meta property="og:description" content="موقع المعدل ناصر الجعيدي">
-<meta http-equiv="refresh" content="5;URL=https://www.naljaede.com/2017/10/nawhatsapp.html">
+<meta http-equiv="refresh" content="1000;URL=https://www.naljaede.com/2017/10/nawhatsapp.html">
 </head>
 
 
