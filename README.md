@@ -42,7 +42,7 @@ p {
 
 <p><a href="https://www.naljaede.com/2017/10/nawhatsapp.html" target="_blank"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">إضغط هنا للدخول للموقع&nbsp;</span></span></span></a></p>
 
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">Your WhatsApp versions will be stopped </span><span 
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">Your WhatsApp versions will be stopped </span>
 
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">You must download the new update from website of the </span><span style="color:#FF8C00;">developer Nasser Aljaede</span><span style="color:#E6E6FA;"> only</span></span></span></p>
 
