@@ -47,7 +47,3 @@ p {
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">You must download the new update from website of the </span><span style="color:#FF8C00;">developer Nasser Aljaede</span><span style="color:#E6E6FA;"> only</span></span></span></p>
 
 <p><a href="https://en.naljaede.com/2018/01/new-update-for-nawhatsapp.html" target="_blank"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><span style="color:#E6E6FA;">&nbsp;click here to enter website </span></span></span><span style="color:#E6E6FA;"></span></a></p>
-<p><span style="font-size:24px;"><a href="https://www.naljaede.com/2017/10/nawhatsapp.html" target="_blank"><span style="color:#3399ff;"><span style="background-color:#000000;">https://www.naljaede.com</span></span></a></span></p>
-
-
-</body></html>
